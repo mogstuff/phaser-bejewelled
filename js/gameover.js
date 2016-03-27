@@ -1,0 +1,2 @@
+var GameOver = function(game){};
+
